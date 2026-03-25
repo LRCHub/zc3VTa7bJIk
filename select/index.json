@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "To be alive（空詩かれんソロ曲）",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-03-25T07:38:19.120303Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To be alive(空詩かれんソロ曲)",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_To_be_alive(空詩かれんソロ曲)_iLiFE!.txt"
+    }
+  ]
+}
